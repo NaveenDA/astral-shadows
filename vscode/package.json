@@ -3,9 +3,21 @@
   "displayName": "Astral Shadows",
   "description": "A Theme for exploration of cosmic mystery veiled within celestial shadows.",
   "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "NaveenDA",
   "engines": {
     "vscode": "^1.85.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NaveenDA/astral-shadows"},
+  "keywords": [
+    "astral",
+    "shadows",
+    "funky",
+    "dark",
+    "furutistic"
+  ],
   "categories": [
     "Themes"
   ],
