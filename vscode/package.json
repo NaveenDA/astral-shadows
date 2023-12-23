@@ -1,0 +1,21 @@
+{
+  "name": "astral-shadows",
+  "displayName": "Astral Shadows",
+  "description": "A Theme for exploration of cosmic mystery veiled within celestial shadows.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Astral Shadows",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Astral Shadows-color-theme.json"
+      }
+    ]
+  }
+}
