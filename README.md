@@ -5,4 +5,4 @@ A Theme for exploration of cosmic mystery veiled within celestial shadows.
 
 ## Installation
 
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=naveenda.astral-shadows)
